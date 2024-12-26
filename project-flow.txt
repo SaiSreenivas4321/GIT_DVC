@@ -1,0 +1,2 @@
+1. Create gir repo and clone it in real
+2. Create code.py and code to it.(it will save new file in a new file "data folder )
