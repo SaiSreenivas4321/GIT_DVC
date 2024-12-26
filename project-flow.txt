@@ -1,2 +1,5 @@
 1. Create gir repo and clone it in real
 2. Create code.py and code to it.(it will save new file in a new file "data folder )
+3. Do a git add commit push before intializing DVC
+4. Pip install DVC 
+5. how we do dvc init (creates,.dvcignore,.dvc)
