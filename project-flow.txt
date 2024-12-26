@@ -9,3 +9,5 @@
  Now it will ask to do:(git rm -r --cached 'data' and git commit -m""Storptracking data)
  Because initally we were tracking data/folder from git so now we remove it for DVC to handle.
 9. Again we do "dvc add data/" (creates data.dvc) then "git add .gitignore data.dvc"
+10. now "dvc commit"and the "dvc push"
+11. now need to git add commit push to mark this satge as first version of data
